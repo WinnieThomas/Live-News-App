@@ -1,9 +1,9 @@
 type Article={
     author:string|null;
-    category:string;
+    category:string|null;
     country:string;
     description:string;
-    image:string;
+    image:string|null;
     language:string;
     published_at:string;
     source:string;
