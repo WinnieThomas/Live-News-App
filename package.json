@@ -16,12 +16,14 @@
     "graphql-request": "^6.1.0",
     "next": "latest",
     "react": "latest",
-    "react-dom": "latest"
+    "react-dom": "latest",
+    "react-timeago": "^7.2.0"
   },
   "devDependencies": {
     "@types/node": "latest",
     "@types/react": "latest",
     "@types/react-dom": "latest",
+    "@types/react-timeago": "^4.1.4",
     "autoprefixer": "latest",
     "eslint": "latest",
     "eslint-config-next": "latest",
